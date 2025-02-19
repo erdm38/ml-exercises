@@ -7,4 +7,4 @@ This repository contains exercises and assignments related to machine learning. 
 To get started with the exercises, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ml-exercise.git
+git clone https://github.com/your-username/ml-exercises.git
